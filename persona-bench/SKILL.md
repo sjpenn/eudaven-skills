@@ -1,6 +1,6 @@
 ---
 name: eudaven-persona-bench
-description: Lookup for the 9 approved Eudaven Promoter Network personas: voice, pillars, cadence, compliance tier, claim boundaries, custody, and status. Use before drafting any script, ad, or calendar slot for a named persona.
+description: Lookup for the 9 approved Eudaven Promoter Network personas — voice, pillars, cadence, compliance tier, claim boundaries, custody, and status. Use before drafting any script, ad, or calendar slot for a named persona.
 ---
 
 # eudaven-persona-bench

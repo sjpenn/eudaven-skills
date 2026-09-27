@@ -1,6 +1,6 @@
 ---
 name: eudaven-compliance-gate
-description: Hard compliance choke point for Eudaven content: HIPAA data-boundary framing, LegitScript cert check, CareValidate-scope limiter.
+description: Hard compliance choke point for Eudaven content — HIPAA data-boundary framing, LegitScript cert check, CareValidate-scope limiter.
 ---
 
 # eudaven-compliance-gate
